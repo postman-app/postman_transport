@@ -10,5 +10,5 @@
   {modules, []},
   {maintainers, ["Goncalo Tomas"]},
   {licenses, ["Apache 2.0"]},
-  {links, [{"Github", "https://github.com/ClicaAi/postman_transport"}]}
+  {links, [{"Github", "https://github.com/postman-app/postman_transport"}]}
  ]}.
