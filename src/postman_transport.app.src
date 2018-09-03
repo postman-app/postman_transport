@@ -1,0 +1,14 @@
+{application, postman_transport,
+ [{description, "An OTP library"},
+  {vsn, "1.0.0"},
+  {registered, []},
+  {applications,
+   [kernel,
+    stdlib
+   ]},
+  {env,[]},
+  {modules, []},
+  {maintainers, ["Goncalo Tomas"]},
+  {licenses, ["Apache 2.0"]},
+  {links, [{"Github", "https://github.com/ClicaAi/postman_transport"}]}
+ ]}.
